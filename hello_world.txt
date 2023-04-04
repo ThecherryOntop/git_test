@@ -1,0 +1,1 @@
+This is the beginnig of my fullstack journey with odin project.
